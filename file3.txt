@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file 3 for change
+=======
+this is file 3
+>>>>>>> 49971969075c86dc76d7901f1744a442a6a57683
